@@ -15,6 +15,8 @@ Prof. Alexander Robert Kutzke
 Altere o código do arquivo [spam_classifier.py](spam_classifier.py) para adicionar
 algumas das seguintes funcionalidades:
 
+- Utilizar a biblioteca NumPy se considerar pertinente;
+- Utilizar a biblioteca Pandas se considerar pertinente;
 - Analisar o conteúdo da mensagem e não apenas o Assunto;
 - Considerar apenas palavras que aparecem um número mínimo de vezes 
   (`min_count`);
