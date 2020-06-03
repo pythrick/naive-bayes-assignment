@@ -25,3 +25,7 @@ algumas das seguintes funcionalidades:
   - Por exemplo, se a mensagem possuí números:
     - A função `tokenizer` pode retornar *tokens* especiais para isso (por exemplo: 
       `contains:number`).
+
+**Comente seu código indicando as alterações realizadas.**
+
+Você pode, ainda, realizar testes de desempenho para cada uma das alterações realizadas (se for pertinente).
