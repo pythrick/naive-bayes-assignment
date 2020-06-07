@@ -1,0 +1,10 @@
+[default]
+STEM_WORDS = true
+ADD_FROM = true
+ADD_RECEIVED = true
+SPECIAL_TOKENS = false
+CONTENT_FROM_BODY = false
+REMOVE_STOP_WORDS = false
+MIN_COUNT = false
+NLTK_TOKENIZE = false
+ADD_URL = false

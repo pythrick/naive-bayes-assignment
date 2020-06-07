@@ -29,3 +29,12 @@ algumas das seguintes funcionalidades:
 **Comente seu código indicando as alterações realizadas.**
 
 Você pode, ainda, realizar testes de desempenho para cada uma das alterações realizadas (se for pertinente).
+
+___
+
+## Resolução
+- As linhas do script `spam_classifier.py` que tiveram alterações estão comentados com o prefixo `# Change: `.
+- Foi utilizado a biblioteca `dynaconf` para fazer o controle das configurações que foram introduzidas no código.
+As configurações estão centralizadas no arquivo `settings.toml`, onde é possível habilitar ou desabilitá-las.
+- Foi implementado um algoritmo, `run_all_possibilities.py` ,para testar todas as configurações possíveis, de modo a encontrar a configuração 
+que tivesse o melhor desempenho. A melhor configuração encontrada está no arquivo `settings.toml`.

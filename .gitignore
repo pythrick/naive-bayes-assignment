@@ -319,3 +319,6 @@ cython_debug/
 
 .idea
 emails
+
+# Ignore dynaconf secret files
+.secrets.*

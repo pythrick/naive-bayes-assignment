@@ -1,0 +1,11 @@
+beautifulsoup4==4.9.1
+click==7.1.2
+dynaconf==2.2.3
+joblib==0.15.1
+nltk==3.5
+python-box==3.4.6
+python-dotenv==0.13.0
+regex==2020.5.14
+soupsieve==2.0.1
+toml==0.10.1
+tqdm==4.46.1
